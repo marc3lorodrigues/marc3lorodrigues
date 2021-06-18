@@ -6,7 +6,6 @@
 
 - 🔭 I’m currently working on [TCS](https://www.tcs.com)
 - 🌱 I’m currently learning Somethings related to Database.
-- 🤔 I’m looking for help with academic knowledge.
 - 💬 Ask me about programming and database.
 - 📫 How to reach me: [e-mail](mailto:profmsbr@gmail.com)
 
