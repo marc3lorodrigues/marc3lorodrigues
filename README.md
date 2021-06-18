@@ -1,16 +1,16 @@
 ### Hi there 👋
+- Name: Marcelo Rodrigues
+- Lattes:  [lattes](http://lattes.cnpq.br/0660986958686663)
 
-<!--
-**marc3lorodrigues/marc3lorodrigues** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I'm a Professional IT and Professor University
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on [TCS](https://www.tcs.com)
+- 🌱 I’m currently learning Somethings related to Database.
+- 🤔 I’m looking for help with academic knowledge.
+- 💬 Ask me about programming, database.
+- 📫 How to reach me: [e-mail](profmsbr@gmail.com)
 
-- 🔭 I’m currently working on https://www.tcs.com/
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: Sometimes I teach, but I always work.
+
+
+[Flex Grid](http://exemplo.com/)
