@@ -9,5 +9,5 @@
 - 🤔 I’m looking for help with academic knowledge.
 - 💬 Ask me about programming, database.
 - 📫 How to reach me: [e-mail](mailto:profmsbr@gmail.com)
-- ⚡ Fun fact: Sometimes I teach, but I always work.
+
 
