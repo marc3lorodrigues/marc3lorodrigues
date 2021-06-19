@@ -8,5 +8,7 @@
 - 🌱 I’m currently learning Somethings related to Database.
 - 💬 Ask me about programming and database.
 - 📫 How to reach me: [e-mail](mailto:profmsbr@gmail.com)
+- 🏋️ Sports - I love it 🚶‍♂️ and sometimes I can do it🏋️
+- 🎵 Music - I like varied styles but valued styles that use classical instruments.
 
 
