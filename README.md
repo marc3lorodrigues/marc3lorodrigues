@@ -1,14 +1,14 @@
-### Hi there 👋
+### Olá 👋
 - Name: Marcelo Rodrigues
 - Lattes: [Currículo](http://lattes.cnpq.br/0660986958686663)
 
-### I'm a Professional IT and Professor University
+### Sou profissonal de Tecnologia da Informação e Professor Universitário.
 
-- 🔭 I’m currently working on [UNIFIL](https://www.unifil.br)
-- 🌱 I’m currently learning Somethings related to Database.
-- 💬 Ask me about programming and database.
-- 📫 How to reach me: [e-mail](mailto:profmsbr@gmail.com)
-- 🏋️ Sports - I love it 🚶‍♂️ and sometimes I can do it🏋️
-- 🎵 Music - I like varied styles but valued styles that use classical instruments.
+- 🔭 Atuamente sou Docente na [UNIFIL](https://www.unifil.br)
+- 🌱 Atualmente estou estudando coisas relacionadas a Desenvolvimento de Software.
+- 💬 Pergunte-me sobre Engenharia de Software, Banco de Dados e Linguagens de programação.
+- 📫 Como me contatar: [e-mail](mailto:profmsbr@gmail.com) e [LinkedIn](http://linkedin.com/in/msbrodrigues)
+- 🏋️ Esportes - Eu adoro 🚶‍♂️ e também faço 🏋️, as vezes.
+- 🎵 Música - Gosto de estilos variados, mas valorizo estilos que usam instrumentos clássicos.
 
 
