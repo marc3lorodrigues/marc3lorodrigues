@@ -5,7 +5,7 @@
 
 ### Sou profissonal de Tecnologia da Informação e Professor Universitário.
 
-- 🔭 Atuamente sou  Analista de Sistemas na [Benner](https://www.benner.com.br) e Docente na [UNIFIL](https://www.unifil.br).
+- 🔭 Atuamente sou  Analista de Sistemas na [Benner](https://www.benner.com.br).
 - 🌱 Atualmente estou estudando coisas relacionadas a Desenvolvimento de Software.
 - 💬 Pergunte-me sobre Engenharia de Software, Banco de Dados e Linguagens de programação.
 - 📫 Como me contatar: [e-mail](mailto:profmsbr@gmail.com)
