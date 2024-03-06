@@ -2,7 +2,7 @@
 - Name: Marcelo Rodrigues
 - Currículo Lattes: [Clique Aqui](http://lattes.cnpq.br/0660986958686663)
 - LinkedIn: [Clique Aqui](http://linkedin.com/in/msbrodrigues).
-- Portifólio: [Clique Aqui](Portifólio.md).
+- Portifólio: [Clique Aqui](Portifolio.md).
 
 ### Sou profissonal de Tecnologia da Informação e Professor Universitário.
 
