@@ -4,7 +4,6 @@
 
 #### Alguma experiência em:
 <a href="https://www.microsoft.com/pt-br/sql-server/" target="_blank">
-
        
 <img 
           src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" 
