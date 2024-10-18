@@ -4,14 +4,9 @@
 
 #### Alguma experiência em:
       
+        
 <img 
           src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" 
-          height="30" 
-          width="30" 
-          align="left" 
-          Title="Microsoft SQL Server"/>             
-<img 
-          src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" 
           height="30" 
           width="30" 
           align="left" 
@@ -43,7 +38,11 @@
 
 <br><br>
 #### Conteúdos:
-[SQL Server](Files/marc3lorodrigues/SQLServer.md)
+### [SQL Server](Files/marc3lorodrigues/SQLServer.md)
+### [C ANSI](Files/marc3lorodrigues/C-ANSI.md)
+
+
+
 
 
 
