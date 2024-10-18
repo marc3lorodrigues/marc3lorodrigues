@@ -3,16 +3,55 @@
 ### Eu sou o Marcelo Rodrigues. Este é meu repositório de conteúdos e códigos.
 
 #### Alguma experiência em:
-<a href="">
+<a href="" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" height="30" width="30" align="left" Title="Microsoft SQL Server"/>                       
 </a>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" height="30" width="30" align="left" Title="Microsoft SQL Server"/>             
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" height="30" width="30" align="left" Title="SQL" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" height="30" width="30" align="left" Title="C ANSI" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" height="30" width="30" align="left" Title="C#" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-plain-wordmark.svg"  height="30" width="30" align="left" Title=".NET Framework" />
+<a href="">
+<img 
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" 
+          height="30" 
+          width="30" 
+          align="left" 
+          Title="Microsoft SQL Server"/>             
+
+</a>
+<a href="">
+<img 
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" 
+          height="30" 
+          width="30" 
+          align="left" 
+          Title="SQL" />
           
+</a>
+<a href="">          
+<img 
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" 
+          height="30" 
+          width="30" 
+          align="left" 
+          Title="C ANSI" />
+          
+</a>
+<a href="">          
+<img 
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" 
+          height="30" 
+          width="30" 
+          align="left" 
+          Title="C#" />
+          
+</a>
+<a href="">
+<img 
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-plain-wordmark.svg"  
+          height="30" 
+          width="30" 
+          align="left" 
+          Title=".NET Framework" />
+          
+</a>         
 <br><br>
 #### Principais Linguagens:
 <a href="https://github.com/anuraghazra/convoychat">
