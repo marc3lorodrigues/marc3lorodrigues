@@ -3,7 +3,7 @@
 ### Eu sou o Marcelo Rodrigues. Este é meu repositório de conteúdos e códigos.
 
 #### Alguma experiência em:
-<a href="" target="_blank">
+<a href="https://www.microsoft.com/pt-br/sql-server/" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" height="30" width="30" align="left" Title="Microsoft SQL Server"/>                       
 </a>
 
