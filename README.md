@@ -38,8 +38,8 @@
 
 <br><br>
 #### Conteúdos:
-### [SQL Server](Files/marc3lorodrigues/SQLServer.md)
-### [C ANSI](Files/marc3lorodrigues/C-ANSI.md)
+### [SQL Server](Files/marc3lorodrigues/SQLServer/README.md)
+### [C ANSI](Files/marc3lorodrigues/C-ANSI/README.md)
 
 
 
