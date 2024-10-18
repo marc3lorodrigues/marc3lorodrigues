@@ -6,6 +6,9 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" height="30" width="30" align="left" Title="Microsoft SQL Server"/>             
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" height="30" width="30" align="left" Title="Transaction SQL" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" height="30" width="30" align="left" Title="C#" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" height="30" width="30" align="left" Title="C ANSI" />
+          
+
                     
 <br><br>
 #### Principais Linguagens:
