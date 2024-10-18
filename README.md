@@ -2,11 +2,12 @@
 
 ### Eu sou o Marcelo Rodrigues. Este é meu repositório de conteúdos e códigos.
 
+
 #### Alguma experiência em:
+
       
-        
 <img 
-          src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" 
+          scr="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"
           height="30" 
           width="30" 
           align="left" 
