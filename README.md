@@ -1,4 +1,6 @@
-<img scr="i.gig">
+<img scr = "giphy.gif" width=10%>
+
+
 ## Hi there 👋
 
 <!--
